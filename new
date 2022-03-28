@@ -1,0 +1,19 @@
+<script src="//code.tidio.co/nvuu3se4n4tqalvlyfrw0hxibyj3f5so.js" async></script>
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+حط رقمك هنا", // WhatsApp number
+            snapchat: "حط سنابك هنا", // Snapchat username
+            call_to_action: "حياك راسلنا على واتساب - سناب", // Call to action
+            button_color: "#932C8B", // Color of button // حط لونك هنا 
+            position: "left", // Position may be 'right' or 'left'
+            order: "whatsapp,snapchat", // Order of buttons
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
